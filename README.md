@@ -12,7 +12,7 @@ Anda dapat menginstal modul ini menggunakan npm:
 npm install tiktokdownloader
 ```
 
-### USO
+### Cara Penggunaan
 ```bash
 const tk = require('tiktokdownloader');
 

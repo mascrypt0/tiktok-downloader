@@ -1,5 +1,5 @@
 {
-  "name": "tiktokdownloader",
+  "name": "@danielgutierrez/tiktokdownloaders",
   "version": "1.0.3",
   "description": "Download tiktok videos, photos coming soon",
   "main": "index.js",

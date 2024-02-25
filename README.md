@@ -9,12 +9,12 @@ Modul ini memungkinkan Anda mengunduh video TikTok.
 Anda dapat menginstal modul ini menggunakan npm:
 
 ```bash
-npm install tiktokdownloader
+npm install @danielgutierrez/tiktokdownloaders
 ```
 
 ### Cara Penggunaan
 ```bash
-const tk = require('tiktokdownloader');
+const tk = require('@danielgutierrez/tiktokdownloaders');
 
 const url = 'https://www.tiktok.com/@andx.vx/video/7324208424709836038';
 

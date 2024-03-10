@@ -1,5 +1,5 @@
 {
-  "name": "tiktok-downloaders",
+  "name": "tiktok-downloader",
   "version": "1.0.4",
   "description": "Download video tiktok",
   "main": "index.js",
@@ -53,10 +53,11 @@
   },
   "keywords": [
     "tiktok",
-    "downloader",
-    "api-tiktok"
+    "download",
+    "tiktok",
+    "api"
   ],
-  "author": "mascrypt0",
+  "author": "mascrytp0",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mascrypt0/tiktok-downloader/issues"

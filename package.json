@@ -1,7 +1,7 @@
 {
   "name": "tiktok-downloaders",
   "version": "1.0.5",
-  "description": "Download video tiktok",
+  "description": "Download Video TikTok",
   "main": "index.js",
   "dependencies": {
     "asynckit": "^0.4.0",
@@ -42,7 +42,7 @@
     "qs": "^6.12.0",
     "set-function-length": "^1.2.2",
     "side-channel": "^1.0.6",
-    "tiktok-downloaders": "^1.0.5"
+    "tiktok-downloaders": "^1.0.4"
   },
   "scripts": {
     "test": "exit 0"
@@ -53,13 +53,18 @@
   },
   "keywords": [
     "tiktok",
-    "downloader",
-    "api-tiktok"
+    "video",
+    "tiktok",
+    "tiktok",
+    "api"
   ],
   "author": "mascrypt0",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mascrypt0/tiktok-downloaders/issues"
   },
-  "homepage": "https://github.com/mascrypt0/tiktok-downloaders#readme"
+  "homepage": "https://github.com/mascrypt0/tiktok-downloaders#readme",
+  "dependencies": {
+    "tiktok-downloaders": "^1.0.5"
+  }
 }
